@@ -9,6 +9,7 @@
   <img align="left" alt="Hsein's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
 - Hi, I'm Hsein Bitar from Lebanon!
 - I'm in fact a design architect who is passionate about software and technology in general, and the combination of code and design.
 - ✨ to me, the ability to code is like a having a super power ✨
@@ -17,6 +18,7 @@
 - 📫 You can reach me via email: ...
 - 💬 ask me about anything, i am happy to help;
 - ⚡ Fun fact: you probably should drink more water
+- ⚡ Another Fun fact: Crypto > The Banking System
 
 📈 my github stats
 
