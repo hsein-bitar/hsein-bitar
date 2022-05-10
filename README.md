@@ -11,6 +11,7 @@
 
 <br />
 
+
 - I'm from Lebanon!
 - I'm a design architect who is passionate about software and technology in general, and the combination of code and design aka "generative design".
 - ✨ to me, the ability to code is like a having a super power ✨
