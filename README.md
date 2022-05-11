@@ -25,7 +25,7 @@
 
 <br />
 <br />
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -43,7 +43,7 @@
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icons=true&theme=gotham" alt="Hsein Bitar" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icons=true&theme=gotham" alt="Hsein Bitar" />
 
  ![](https://github.com/hsein-bitar/hsein-bitar/blob/main/to-the-moon.gif)
 
