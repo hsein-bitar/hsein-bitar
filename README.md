@@ -10,7 +10,6 @@
 </a>
 
 <br />
-
 <br />
 
 
@@ -23,6 +22,12 @@
 - 💬 ask me about anything, i am happy to help;
 - ⚡ Fun fact: you probably should drink more water
 - ⚡ Another Fun fact: Crypto > The Banking System
+
+<br />
+<br />
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 **languages and tools:**  
 
