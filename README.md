@@ -43,5 +43,5 @@
 
 📈 my github stats
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icons=true&theme=gotham" alt="Hsein Bitar" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icons=true&theme=gotham" alt="Hsein Bitar" />
 
