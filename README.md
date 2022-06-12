@@ -45,6 +45,5 @@
 📈 my github stats
 <br />
 <br />
-<br />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icons=true&theme=gotham" alt="Hsein Bitar" />
 
