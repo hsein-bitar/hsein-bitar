@@ -1,4 +1,4 @@
-### hey there, I'm Hsein Bitar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+### hey there, I'm Hsein Bitar <img width="25" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 <a href="https://www.instagram.com/hsein_bitar/">
   <img align="left" alt="Hsein's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
