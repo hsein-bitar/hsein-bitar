@@ -47,4 +47,4 @@
 <br />
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icons=true&theme=gotham" alt="Hsein Bitar" /> -->
 
-![Hsein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
+![Hsein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icons=true&theme=merko&count_private=true)
