@@ -4,15 +4,11 @@
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 <br />
 
-- Full-Stack Web Developer, Designer, and 3D Artist
+- Full-Stack Web Developer, Designer
 - I am passionate about good design, software, and technology in general
-- ✨ to me, the ability to code is like a having a super power ✨
-- 👯 I am always looking to connect and interact with tech friends
-- 🌱 I am currently enrolled in a full stack web development bootcamp
-- 💬 ask me about anything, I'll be happy to help
-- ⚡ Fun fact: Byblos (city in Lebanon, my country) is the oldest, continuously living city in the world and the
-first alphabet was created here
-- ⚡ Fun fact: Your eyes blink around 20 times a minute, remember to blink more when coding
+- ✨ To me, the ability to code is like a having a super power ✨
+- 🧉 I am always looking to connect and interact with tech friends
+- 💬 Ask me about anything, I'll be happy to help
 - 📫 You can reach me via email: hseinbitar22@gmail.com
 
 <br />
