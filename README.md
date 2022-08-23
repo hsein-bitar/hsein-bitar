@@ -23,7 +23,7 @@
     </td>
     <td valign="top">
       <a href="https://twitter.com/HseinBitar">
-        <img align="left" alt="Hsein Bitar | Twitter" height="40"
+        <img align="left" alt="Hsein's Twitter" height="40"
           src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
       </a>
     </td>
@@ -146,7 +146,7 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
     </td>
     <td valign="top"> <img
         src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png"
-        alt="ThreeJS" height="40" />
+        alt="ThreeJS" height="40" href="https://threejs.org/"/>
     </td>
   </tr>
 
