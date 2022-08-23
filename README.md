@@ -144,7 +144,7 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1200px-Devicon-css3-plain.svg.png"
         alt="css3" height="40" />
     </td>
-    <td valign="top"> <a href="https://threejs.org/" ><img
+    <td valign="top"> <a href="https://threejs.org/"><img
         src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png"
         alt="ThreeJS" height="40" /></a>
     </td>
@@ -156,17 +156,17 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
     <td valign="top">
       <h3>Back-End Technologies:</h3>
     </td>
-    <td valign="top"> <img
+    <td valign="top"> <a href="https://nodejs.org/"><img
         src="https://static.cdnlogo.com/logos/n/94/nodejs-icon.svg"
-        height="40">
+        height="40"></a>
     </td>
-    <td valign="top"> <img
+    <td valign="top"> <a href="https://laravel.com/"><img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"
-        alt="php" height="40" />
+        alt="php" height="40" /></a>
     </td>
-    <td valign="top"> <img
+    <td valign="top"> <a href="https://www.php.net/"><img
         src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"
-        alt="php" height="40" />
+        alt="php" height="40" /></a>
     </td>
     <!-- <td valign="top"> <img
         src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"
@@ -180,20 +180,20 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
     <td valign="top">
       <h3>Database Technologies: </h3>
     </td>
-    <td valign="top"> <img
+    <td valign="top"> <a href=" https://www.mongodb.com/"><img
         src="https://static.cdnlogo.com/logos/m/30/mongodb-icon.svg"
-        alt="mongodb" height="40" />
+        alt="mongodb" height="40" /></a>
+    </td>
+    <td valign="top"> <a href="https://www.mysql.com/" ><img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql" height="40" /></a>
     </td>
     <!-- <td valign="top"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="40">
     </td> -->
-    <td valign="top"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" height="40" />
-    </td>
-    <td valign="top"> <img
+    <!-- <td valign="top"> <a href="https://www.postgresql.org/" ><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" height="40" />
-    </td>
+        alt="postgresql" height="40" /></a>
+    </td> -->
   </tr>
 
 
@@ -228,24 +228,24 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
     <td valign="top">
       <h3> 2D Design Tools: </h3>
     </td>
-    <td valign="top"> <img
+    <td valign="top"> <a href="#"><img
         src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png"
-        alt="illustrator" height="40" />
+        alt="illustrator" height="40" /></a>
     </td>
-    <td valign="top"> <img
+    <td valign="top"> <a href="#"><img
         src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png"
-        alt="photoshop" height="40" />
+        alt="photoshop" height="40" /></a>
     </td>
-    <td valign="top"> <img
+    <td valign="top"> <a href="#"><img
         src="https://www.apkmirror.com/wp-content/uploads/2017/11/5a09132c374c5-384x384.png"
-        alt="sketchbook" height="40">
+        alt="sketchbook" height="40"></a>
+    </td>
+    <td valign="top"> <a href="#"><img
+        src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png"
+        alt="figma" height="40"></a>
     </td>
     <!-- <td valign="top"> <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" height="40">
     </td> -->
-    <td valign="top"> <img
-        src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png"
-        alt="figma" height="40">
-    </td>
   </tr>
 
 </table>
