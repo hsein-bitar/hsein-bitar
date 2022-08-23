@@ -146,7 +146,7 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
     </td>
     <td valign="top"> <a  href="#" onclick='window.open("https://threejs.org/");return false;'><img
         src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png"
-        alt="ThreeJS" height="40" href="https://threejs.org/"/></a>
+        alt="ThreeJS" height="40" /></a>
     </td>
   </tr>
 
