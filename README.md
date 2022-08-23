@@ -144,7 +144,7 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1200px-Devicon-css3-plain.svg.png"
         alt="css3" height="40" />
     </td>
-    <td valign="top"> <a  href="#" onclick='window.open("https://threejs.org/");return false;'><img
+    <td valign="top"> <a href="https://threejs.org/" ><img
         src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png"
         alt="ThreeJS" height="40" /></a>
     </td>
@@ -154,7 +154,7 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
   <!-- backend technologies -->
   <tr>
     <td valign="top">
-      <h3>Back -End Technologies:</h3>
+      <h3>Back-End Technologies:</h3>
     </td>
     <td valign="top"> <img
         src="https://static.cdnlogo.com/logos/n/94/nodejs-icon.svg"
