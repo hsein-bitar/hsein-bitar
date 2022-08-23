@@ -144,7 +144,7 @@ stats](https://github-readme-stats.vercel.app/api?username=hsein-bitar&show_icon
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1200px-Devicon-css3-plain.svg.png"
         alt="css3" height="40" />
     </td>
-    <td valign="top"> <a href="https://threejs.org/"><img
+    <td valign="top"> <a href="https://threejs.org/" target="_blank"><img
         src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png"
         alt="ThreeJS" height="40" href="https://threejs.org/"/></a>
     </td>
