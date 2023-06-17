@@ -5,11 +5,9 @@
 <br />
 
 - Junior Full-Stack Web Developer, Designer
-- I am passionate about good design, software, and technology in general
-- ✨ To me, the ability to code is like a having a super power ✨
+- Building awesome software @ nsquared.io 🚀
 - 📫 You can reach me via email: hseinbitar22@gmail.com
-<!-- - 🧉 I am always looking to connect and interact with tech friends
-- 💬 Ask me about anything I know, I'll be happy to help -->
+<!-- - 💬 Ask me about anything I know, I'll be happy to help -->
 
 <br />
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
