@@ -6,7 +6,7 @@
 
 - Junior Full-Stack Web Developer, Designer
 - Building awesome software @ nsquared.io 🚀
-- 📫 You can reach me via email: hseinbitar22@gmail.com
+- For any inquiries, please email me at: hseinbitar22@gmail.com
 <!-- - 💬 Ask me about anything I know, I'll be happy to help -->
 
 <br />
