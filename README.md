@@ -186,6 +186,10 @@ stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bit
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" height="40" /></a>
     </td>
+    <td valign="top"> <a href="https://www.prisma.io/" ><img
+        src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/prisma/prisma-original.svg"
+        alt="prisma" height="40" /></a>
+    </td>
     <!-- <td valign="top"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="40">
     </td> -->
     <!-- <td valign="top"> <a href="https://www.postgresql.org/" ><img
