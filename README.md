@@ -87,7 +87,7 @@ stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bit
         alt="linux" height="40" />
     </td>
     <td valign="top"><img
-        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"
+        src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postman/postman-original.svg"
         alt="postman" height="40" />
     </td>
   </tr>
@@ -239,7 +239,7 @@ stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bit
         alt="photoshop" height="40" /></a>
     </td>
     <td valign="top"> <a href="#"><img
-        src="https://www.apkmirror.com/wp-content/uploads/2017/11/5a09132c374c5-384x384.png"
+        src="https://store-images.s-microsoft.com/image/apps.36713.13784310836114466.5a27e793-6945-4bf0-ac54-edf49c480153.a8ad4917-f8d9-49e8-9d3d-58b1079c0e4a?w=100"
         alt="sketchbook" height="40"></a>
     </td>
     <td valign="top"> <a href="#"><img
