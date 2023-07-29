@@ -1,12 +1,12 @@
-## Hello World! <img width="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
-## I'm Hsein Bitar
+## Hello <img width="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+## My name is Hsein.
 
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 <br />
 
-- Junior Full-Stack Web Developer, Designer
+- Full-Stack Web Developer, Designer
+- Obsessed with software architecture and systems design
 - Building awesome software @ nsquared.io 🚀
-- For any inquiries, please email me at: hseinbitar22@gmail.com
 <!-- - 💬 Ask me about anything I know, I'll be happy to help -->
 
 <br />
@@ -16,19 +16,19 @@
     <td valign="top">
       <a href="https://www.linkedin.com/in/hseinbitar/">
         <img align="left" alt="Hsein's LinkedIN" height="40"
-          src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+          src="https://cdn.simpleicons.org/linkedin" />
       </a>
     </td>
     <td valign="top">
       <a href="https://twitter.com/HseinBitar">
         <img align="left" alt="Hsein's Twitter" height="40"
-          src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+          src="https://cdn.simpleicons.org/twitter" />
       </a>
     </td>
     <td valign="top">
       <a href="https://www.instagram.com/hsein_bitar/">
         <img align="left" alt="Hsein's Instagram" height="40"
-          src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+          src="https://cdn.simpleicons.org/instagram" />
       </a>
     </td>
   </tr>
