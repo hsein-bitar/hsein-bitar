@@ -146,6 +146,10 @@ stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bit
         src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png"
         alt="ThreeJS" height="40" /></a>
     </td>
+    <td valign="top"> <a href="https://tailwindcss.com/"><img
+        src="https://cdn.simpleicons.org/tailwindcss"
+        alt="TailwindCSS" height="40" /></a>
+    </td>
   </tr>
 
 
