@@ -35,7 +35,10 @@
 </table>
 
 <br />
+
+```markdown
 ![](https://komarev.com/ghpvc/?username=hsein-bitar&color=brightgreen)
+```
 <hr>
 
 <br />
