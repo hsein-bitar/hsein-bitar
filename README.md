@@ -35,7 +35,7 @@
 </table>
 
 <br />
-![](https://komarev.com/ghpvc/?username=hsein-bitar)
+![](https://komarev.com/ghpvc/?username=hsein-bitar&color=brightgreen)
 <hr>
 
 <br />
