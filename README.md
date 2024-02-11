@@ -13,28 +13,22 @@
 
 <br />
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://www.linkedin.com/in/hseinbitar/">
-        <img align="left" alt="Hsein's LinkedIN" height="40"
-          src="https://cdn.simpleicons.org/linkedin" />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://twitter.com/HseinBitar">
-        <img align="left" alt="Hsein's Twitter" height="40"
-          src="https://cdn.simpleicons.org/twitter" />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.instagram.com/hsein_bitar/">
-        <img align="left" alt="Hsein's Instagram" height="40"
-          src="https://cdn.simpleicons.org/instagram" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://www.linkedin.com/in/hseinbitar/">
+  <img align="left" alt="Hsein's LinkedIN" height="40"
+    src="https://cdn.simpleicons.org/linkedin" />
+</a>
+
+<a href="https://twitter.com/HseinBitar">
+  <img align="left" alt="Hsein's Twitter" height="40"
+    src="https://cdn.simpleicons.org/twitter" />
+</a>
+
+<a href="https://www.instagram.com/hsein_bitar/">
+  <img align="left" alt="Hsein's Instagram" height="40"
+    src="https://cdn.simpleicons.org/instagram" />
+</a>
+
 
 <br />
 
