@@ -6,7 +6,7 @@
 
 ![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=brightgreen)
 
-- Full-Stack Web Developer, Designer
+- A full-stack web developer
 - Obsessed with software architecture and systems design
 - Building awesome software @ nsquared.io 🚀
 - If you're just starting out, ask me about anything I may know, and I'll be happy to help
