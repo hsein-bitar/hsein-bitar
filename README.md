@@ -37,7 +37,7 @@
 <br />
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=hsein-bitar&color=brightgreen)
+![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=brightgreen)
 ```
 <hr>
 
