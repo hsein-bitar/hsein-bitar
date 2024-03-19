@@ -4,7 +4,7 @@
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 <br />
 
-![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=pink)
+![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=purple)
 
 - A full-stack web developer
 - Obsessed with software architecture and systems design
