@@ -6,9 +6,11 @@
 
 ![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=green)
 
-- A full-stack web developer
-- Obsessed with software architecture and systems design
-- Building awesome software @ nsquared.io 🚀
+- A full-stack web developer 
+- Obsessed with software architecture, systems design, and automation
+- Building automated KPI BI software @ [blinkmetrics.com](https://blinkmetrics.com/) 🚀
+- Building accessibility audits SaaS @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
+- Maintainer of [SSA](https://wordpress.org/plugins/simply-schedule-appointments/) @ [simplyscheduleappointments.com](https://simplyscheduleappointments.com/)
 - If you're just starting out, ask me about anything I may know, and I'll be happy to help
 
 <br />
