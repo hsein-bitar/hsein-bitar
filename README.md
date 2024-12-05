@@ -44,7 +44,7 @@
 <br />
 
 ![Hsein's GitHub
-stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bitar&show_icons=true&theme=merko&count_private=true)
+stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bitar&show_icons=true&theme=transparent&count_private=true)
 
 <br />
 <hr>
