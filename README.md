@@ -16,14 +16,14 @@
 <br />
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
 
-<a href="https://www.linkedin.com/in/hseinbitar/">
-  <img align="left" alt="Hsein's LinkedIN" height="40"
-    src="https://cdn.simpleicons.org/linkedin" />
-</a>
-
 <a href="https://x.com/HseinBitar">
   <img align="left" alt="Hsein's X profile" height="40"
     src="https://cdn.simpleicons.org/x" />
+</a>
+
+<a href="https://www.linkedin.com/in/hseinbitar/">
+  <img align="left" alt="Hsein's LinkedIN" height="40"
+    src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <a href="https://www.instagram.com/hsein_bitar/">
