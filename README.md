@@ -11,7 +11,6 @@
 - Building accessibility audits SaaS @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
 - Maintainer of [SSA](https://wordpress.org/plugins/simply-schedule-appointments/) @ [simplyscheduleappointments.com](https://simplyscheduleappointments.com/)
 - If you're just starting out, ask me about anything I may know, and I'll be happy to help
-<br />
 <hr>
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
 
