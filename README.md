@@ -37,7 +37,7 @@
 <br />
 
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
-## Below is an overview of my github stats 📈:
+## I totally believe that what gets measured gets improved 📈:
 
 <br />
 
