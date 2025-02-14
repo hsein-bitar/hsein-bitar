@@ -34,7 +34,7 @@
 <br />
 
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
-## I totally believe that what gets measured gets improved 📈:
+## What gets measured, gets improved 📈:
 
 <br />
 
