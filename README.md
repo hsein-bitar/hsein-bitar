@@ -5,7 +5,8 @@
 
 ![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=blue)
 
-- A full-stack web developer 
+- A full-stack web developer
+- 50% Infra, 40% Backend, 21% Frontend (111% ✅)
 - Obsessed with software architecture, systems design, and automation
 - Building automated KPI Business Intelligence software @ [blinkmetrics.com](https://blinkmetrics.com/) 🚀
 - Building accessibility audits SaaS @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
