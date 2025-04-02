@@ -18,7 +18,11 @@
     src="https://cdn.simpleicons.org/instagram" />
 </a>
 
+<hr>
+
 <br />
+
+<!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 
 - A full-stack web developer
 - 50% Infra, 40% Backend, 21% Frontend (I give 111% ✅)
