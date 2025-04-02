@@ -14,6 +14,7 @@
 
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
 <br />
+<br />
 
 <a href="https://x.com/HseinBitar">
   <img align="left" alt="Hsein's X profile" height="40"
@@ -30,6 +31,7 @@
     src="https://cdn.simpleicons.org/instagram" />
 </a>
 
+<br />
 <br />
 <br />
 
