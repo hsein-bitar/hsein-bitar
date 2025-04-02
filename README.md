@@ -8,10 +8,14 @@
     src="https://cdn.simpleicons.org/x" />
 </a>
 
+<hr>
+
 <a href="https://www.linkedin.com/in/hseinbitar/">
   <img align="left" alt="Hsein's LinkedIN" height="40"
     src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
+
+<hr>
 
 <a href="https://www.instagram.com/hsein_bitar/">
   <img align="left" alt="Hsein's Instagram" height="40"
