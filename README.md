@@ -1,9 +1,5 @@
 ## Hello <img width="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> My name is Hsein.
-![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=blue)
 
-<hr>
-
-<!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 <br />
 
 
