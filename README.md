@@ -23,7 +23,6 @@
 stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bitar&show_icons=true&theme=transparent&count_private=true)
 
 <br />
-<hr>
 
 <a href="https://x.com/HseinBitar">
   <img align="left" alt="Hsein's X profile" height="40"
