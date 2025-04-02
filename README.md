@@ -15,8 +15,6 @@
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
 <br />
 
-<hr>
-
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 ## What gets measured, gets improved 📈:
 
