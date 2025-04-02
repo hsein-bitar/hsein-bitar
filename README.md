@@ -2,27 +2,6 @@
 
 <br />
 
-
-<a href="https://x.com/HseinBitar">
-  <img align="left" alt="Hsein's X profile" height="40"
-    src="https://cdn.simpleicons.org/x" />
-</a>
-
-<a href="https://www.linkedin.com/in/hseinbitar/">
-  <img align="left" alt="Hsein's LinkedIN" height="40"
-    src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-
-<a href="https://www.instagram.com/hsein_bitar/">
-  <img align="left" alt="Hsein's Instagram" height="40"
-    src="https://cdn.simpleicons.org/instagram" />
-</a>
-
-<br />
-
-<hr>
-
-
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 
 - A full-stack web developer
@@ -46,6 +25,25 @@
 stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bitar&show_icons=true&theme=transparent&count_private=true)
 
 <br />
+<hr>
+
+<a href="https://x.com/HseinBitar">
+  <img align="left" alt="Hsein's X profile" height="40"
+    src="https://cdn.simpleicons.org/x" />
+</a>
+
+<a href="https://www.linkedin.com/in/hseinbitar/">
+  <img align="left" alt="Hsein's LinkedIN" height="40"
+    src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+</a>
+
+<a href="https://www.instagram.com/hsein_bitar/">
+  <img align="left" alt="Hsein's Instagram" height="40"
+    src="https://cdn.simpleicons.org/instagram" />
+</a>
+
+<br />
+
 <hr>
 <br />
 
