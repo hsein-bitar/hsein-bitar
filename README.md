@@ -30,10 +30,14 @@
     src="https://cdn.simpleicons.org/instagram" />
 </a>
 
+<br />
+
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 ## What gets measured, gets improved 📈:
 
 <br />
+
+![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=blue)
 
 ![Hsein's GitHub
 stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bitar&show_icons=true&theme=transparent&count_private=true)
