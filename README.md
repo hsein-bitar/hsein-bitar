@@ -11,18 +11,7 @@
 - Building accessibility audits SaaS @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
 - Maintainer of [SSA](https://wordpress.org/plugins/simply-schedule-appointments/) @ [simplyscheduleappointments.com](https://simplyscheduleappointments.com/)
 - If you're just starting out, ask me about anything I may know, and I'll be happy to help
-<!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
-<br />
 
-<!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
-## What gets measured, gets improved 📈:
-
-<br />
-
-![Hsein's GitHub
-stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bitar&show_icons=true&theme=transparent&count_private=true)
-
-<br />
 
 <a href="https://x.com/HseinBitar">
   <img align="left" alt="Hsein's X profile" height="40"
@@ -38,6 +27,19 @@ stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bit
   <img align="left" alt="Hsein's Instagram" height="40"
     src="https://cdn.simpleicons.org/instagram" />
 </a>
+
+<!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
+<br />
+
+<!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
+## What gets measured, gets improved 📈:
+
+<br />
+
+![Hsein's GitHub
+stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bitar&show_icons=true&theme=transparent&count_private=true)
+
+<br />
 
 <br />
 
