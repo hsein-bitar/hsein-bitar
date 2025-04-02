@@ -21,7 +21,7 @@
 
 <a href="https://www.linkedin.com/in/hseinbitar/">
   <img align="left" alt="Hsein's LinkedIN" height="40"
-    src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
+    src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 <a href="https://www.instagram.com/hsein_bitar/">
