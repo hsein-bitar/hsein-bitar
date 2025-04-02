@@ -21,6 +21,8 @@
 
 <br />
 
+<hr>
+
 ![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=blue)
 
 - A full-stack web developer
