@@ -3,17 +3,6 @@
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 <br />
 
-![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=blue)
-
-- A full-stack web developer
-- 50% Infra, 40% Backend, 21% Frontend (I give 111% ✅)
-- Obsessed with software architecture, systems design, and automation
-- Building automated KPI Business Intelligence software @ [blinkmetrics.com](https://blinkmetrics.com/) 🚀
-- Building accessibility audits SaaS @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
-- Maintainer of [SSA](https://wordpress.org/plugins/simply-schedule-appointments/) @ [simplyscheduleappointments.com](https://simplyscheduleappointments.com/)
-- If you're just starting out, ask me about anything I may know, and I'll be happy to help
-<hr>
-<!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
 
 <a href="https://x.com/HseinBitar">
   <img align="left" alt="Hsein's X profile" height="40"
@@ -31,6 +20,18 @@
 </a>
 
 <br />
+
+![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=blue)
+
+- A full-stack web developer
+- 50% Infra, 40% Backend, 21% Frontend (I give 111% ✅)
+- Obsessed with software architecture, systems design, and automation
+- Building automated KPI Business Intelligence software @ [blinkmetrics.com](https://blinkmetrics.com/) 🚀
+- Building accessibility audits SaaS @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
+- Maintainer of [SSA](https://wordpress.org/plugins/simply-schedule-appointments/) @ [simplyscheduleappointments.com](https://simplyscheduleappointments.com/)
+- If you're just starting out, ask me about anything I may know, and I'll be happy to help
+<hr>
+<!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
 
 <br />
 
