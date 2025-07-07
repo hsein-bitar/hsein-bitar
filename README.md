@@ -17,17 +17,17 @@
 <br />
 
 <a href="https://x.com/HseinBitar">
-  <img align="left" alt="Hsein's X profile" height="40"
+  <img align="left" alt="Hsein's X profile" style="height: 40px;"
     src="https://cdn.simpleicons.org/x" />
 </a>
 
 <a href="https://www.linkedin.com/in/hseinbitar/">
-  <img align="left" alt="Hsein's LinkedIN" height="40"
+  <img align="left" alt="Hsein's LinkedIN" style="height: 40px;"
     src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 <a href="https://www.instagram.com/hsein_bitar/">
-  <img align="left" alt="Hsein's Instagram" height="40"
+  <img align="left" alt="Hsein's Instagram" style="height: 40px;"
     src="https://cdn.simpleicons.org/instagram" />
 </a>
 
