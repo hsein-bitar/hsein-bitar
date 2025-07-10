@@ -5,7 +5,7 @@
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 
 - A full-stack web developer
-- 50% Infra, 40% Backend, 21% Frontend (I give 111% ✅)
+- 50% Infra, 40% Backend, 21% Frontend
 - Obsessed with software architecture, systems design, and automation
 - Building automated KPI Business Intelligence software @ [blinkmetrics.com](https://blinkmetrics.com/) 🚀
 - Building accessibility audits SaaS @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
