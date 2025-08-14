@@ -40,8 +40,6 @@
 
 <br />
 
-![hsein-bitar-profile-views-counter](https://komarev.com/ghpvc/?username=hsein-bitar&color=blue)
-
 ![Hsein's GitHub
 stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bitar&show_icons=true&theme=transparent&count_private=true)
 
