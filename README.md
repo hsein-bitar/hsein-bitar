@@ -7,8 +7,8 @@
 - A full-stack web developer
 - 50% Infra, 40% Backend, 21% Frontend
 - Obsessed with software architecture, systems design, and automation
-- Building automated KPI Business Intelligence software @ [blinkmetrics.com](https://blinkmetrics.com/) 🚀
-- Building accessibility audits SaaS @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
+- Building automated business intelligence software @ [blinkmetrics.com](https://blinkmetrics.com/) 🚀
+- Building accessibility testing tool for digital teams @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
 - Maintainer of [SSA](https://wordpress.org/plugins/simply-schedule-appointments/) @ [simplyscheduleappointments.com](https://simplyscheduleappointments.com/)
 - If you're just starting out, ask me about anything I may know, and I'll be happy to help
 
