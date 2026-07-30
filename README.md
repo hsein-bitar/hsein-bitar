@@ -5,15 +5,17 @@
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 
 - A full-stack web developer
-- 50% Infra, 40% Backend, 21% Frontend
+- 50% Infra, 40% Backend, 21% Frontend — and yes, that adds up to 111%. I overdeliver.
 - Obsessed with software architecture, systems design, and automation
-- Building automated business intelligence software @ [blinkmetrics.com](https://blinkmetrics.com/) 🚀
-- Building accessibility testing tool for digital teams @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/) 🚀
-- Maintainer of [SSA](https://wordpress.org/plugins/simply-schedule-appointments/) @ [simplyscheduleappointments.com](https://simplyscheduleappointments.com/)
 - If you're just starting out, ask me about anything I may know, and I'll be happy to help
 
+## Highlights 🚀
+
+- Maintainer of [Simply Schedule Appointments](https://wordpress.org/plugins/simply-schedule-appointments/) — a booking plugin active on **60,000+ WordPress sites**, where every release has to be safe at that scale · [simplyscheduleappointments.com](https://simplyscheduleappointments.com/)
+- Building automated business intelligence software @ [blinkmetrics.com](https://blinkmetrics.com/)
+- Building an accessibility testing tool for digital teams @ [aaardvarkaccessibility.com](https://aaardvarkaccessibility.com/)
+
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star :) -->
-<br />
 <br />
 
 <a href="https://x.com/HseinBitar">
@@ -22,8 +24,8 @@
 </a>
 
 <a href="https://www.linkedin.com/in/hseinbitar/">
-  <img align="left" alt="Hsein's LinkedIN" style="height: 40px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+  <img align="left" alt="Hsein's LinkedIn" style="height: 40px;"
+    src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <a href="https://www.instagram.com/hsein_bitar/">
@@ -45,206 +47,37 @@ stats](https://github-readme-stats-hsein-bitar.vercel.app/api?username=hsein-bit
 
 <br />
 
-## Below is an overview of tools I use:
-<br />
+## Tools I reach for 🧰
 
-<table>
-  <!-- other technologies -->
-  <tr>
-    <td valign="top">
-      <h3> General Technologies: </h3>
-    </td>
-    <td valign="top"> <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png"
-        alt="socket.io" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg"
-        alt="electronJS" height="40" />
-    </td>
-      </td>
-    <td valign="top"> <img
-        src="https://www.drupal.org/files/project-images/aws-logo.png"
-        alt="aws" height="40">
-    </td>
-    <td valign="top"><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        alt="linux" height="40" />
-    </td>
-    <td valign="top"><img
-        src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postman/postman-original.svg"
-        alt="postman" height="40" />
-    </td>
-  </tr>
+**Back-end:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 
+**Front-end:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-  <!-- 3d design tools -->
-  <!-- <tr>
-    <td valign="top">
-      <h3> 3D Design Tools: </h3>
-    </td>
-    <td valign="top"> <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/3ds_Max_23640.png" height="40">
-    </td>
-    <td valign="top">
-      <img src="https://i2.wp.com/filecr.com/wp-content/uploads/2021/03/V-Ray-For-3ds-Max.png" height="40">
-    </td>
-    <td valign="top"> <img src="https://seeklogo.com/images/R/rhinoceros-3d-logo-770376F408-seeklogo.com.png"
-        height="40">
-    </td>
-  </tr> -->
+**Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
+**Infra & tooling:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-  <!-- frontend technologies -->
-  <tr>
-    <td valign="top">
-      <h3>Front-End Technologies: </h3>
-    </td>
-    <td valign="top"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"
-        alt="javascript" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-        alt="redux" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-svg-vector.svg"
-        alt="bootstrap" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://cdn-icons-png.flaticon.com/512/174/174854.png"
-        alt="html5" height="40" />
-    </td>
-    <td valign="top"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1200px-Devicon-css3-plain.svg.png"
-        alt="css3" height="40" />
-    </td>
-    <td valign="top"> <a href="https://threejs.org/"><img
-        src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png"
-        alt="ThreeJS" height="40" /></a>
-    </td>
-    <td valign="top"> <a href="https://tailwindcss.com/"><img
-        src="https://cdn.simpleicons.org/tailwindcss"
-        alt="TailwindCSS" height="40" /></a>
-    </td>
-  </tr>
-
-
-  <!-- backend technologies -->
-  <tr>
-    <td valign="top">
-      <h3>Back-End Technologies:</h3>
-    </td>
-    <td valign="top"> <a href="https://nodejs.org/"><img
-        src="https://static.cdnlogo.com/logos/n/94/nodejs-icon.svg"
-        height="40"></a>
-    </td>
-    <td valign="top"> <a href="https://laravel.com/"><img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"
-        alt="php" height="40" /></a>
-    </td>
-    <td valign="top"> <a href="https://www.php.net/"><img
-        src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"
-        alt="php" height="40" /></a>
-    </td>
-    <!-- <td valign="top"> <img
-        src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"
-        alt="cpp" height="40" />
-    </td> -->
-  </tr>
-
-
-  <!-- database technologies -->
-  <tr>
-    <td valign="top">
-      <h3>Database Technologies: </h3>
-    </td>
-    <td valign="top"> <a href="https://www.mongodb.com/"><img
-        src="https://static.cdnlogo.com/logos/m/30/mongodb-icon.svg"
-        alt="mongodb" height="40" /></a>
-    </td>
-    <td valign="top"> <a href="https://www.mysql.com/" ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" height="40" /></a>
-    </td>
-    <td valign="top"> <a href="https://www.prisma.io/" ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/prisma/prisma-original.svg"
-        alt="prisma" height="40" /></a>
-    </td>
-    <!-- <td valign="top"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="40">
-    </td> -->
-    <!-- <td valign="top"> <a href="https://www.postgresql.org/" ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" height="40" /></a>
-    </td> -->
-  </tr>
-
-
-  <!-- cloud technologies -->
-  <!-- <tr>
-    <td valign="top">
-      <h3> Cloud Technologies: </h3>
-    </td>
-    <td valign="top"> <img
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-        height="40">
-  </tr> -->
-
-
-  <!-- mobile technologies -->
-  <!-- <tr>
-    <td valign="top">
-      <h3> Mobile Technologies: </h3>
-    </td>
-    <td valign="top"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="40" />
-    </td>
-    <td valign="top"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40" />
-    </td>
-    <td valign="top"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"
-        height="40" />
-    </td>
-  </tr> -->
-
-
-  <!-- 2d design tools -->
-  <tr>
-    <td valign="top">
-      <h3> 2D Design Tools: </h3>
-    </td>
-    <td valign="top"> <a href="#"><img
-        src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png"
-        alt="illustrator" height="40" /></a>
-    </td>
-    <td valign="top"> <a href="#"><img
-        src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png"
-        alt="photoshop" height="40" /></a>
-    </td>
-    <td valign="top"> <a href="#"><img
-        src="https://store-images.s-microsoft.com/image/apps.36713.13784310836114466.5a27e793-6945-4bf0-ac54-edf49c480153.a8ad4917-f8d9-49e8-9d3d-58b1079c0e4a?w=100"
-        alt="sketchbook" height="40"></a>
-    </td>
-    <td valign="top"> <a href="#"><img
-        src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png"
-        alt="figma" height="40"></a>
-    </td>
-    <!-- <td valign="top"> <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" height="40">
-    </td> -->
-  </tr>
-
-</table>
+**Design:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF)
