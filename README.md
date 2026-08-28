@@ -23,7 +23,7 @@
 
 <a href="https://www.linkedin.com/in/hseinbitar/">
   <img align="left" alt="Hsein's LinkedIn" style="height: 40px;"
-    src="https://uxwing.com/linkedin-app-icon/" />
+    src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" />
 </a>
 
 <a href="https://www.instagram.com/hsein_bitar/">
