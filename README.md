@@ -4,8 +4,6 @@
 
 <!-- Hey it's Hsein, if you find this document useful, consider giving it a star -->
 
-- A full-stack web developer
-- 50% Infra, 40% Backend, 21% Frontend — and yes, that adds up to 111%. I overdeliver.
 - Obsessed with software architecture, systems design, and automation
 - If you're just starting out, ask me about anything I may know, and I'll be happy to help
 
