@@ -18,7 +18,7 @@
 
 <a href="https://x.com/HseinBitar">
   <img align="left" alt="Hsein's X profile" style="height: 40px;"
-    src="https://cdn.simpleicons.org/x" />
+    src="https://cdn.simpleicons.org/x/ffffff" />
 </a>
 
 <a href="https://www.linkedin.com/in/hseinbitar/">
