@@ -21,7 +21,7 @@
     src="https://cdn.simpleicons.org/x/ffffff" />
 </a>
 
-<a href="https://www.linkedin.com/in/hseinbitar/">
+<a href="https://www.linkedin.com/in/hsein-bitar/">
   <img align="left" alt="Hsein's LinkedIn" style="height: 40px;"
     src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" />
 </a>
